@@ -81,5 +81,4 @@
 </a>  
 </div>  
 
-##  I dont think about that
-<img  src="https://random-memer.herokuapp.com/"  width="256px"/>
+
