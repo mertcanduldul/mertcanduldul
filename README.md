@@ -83,6 +83,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mertcanduldul/mertcanduldul/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/mertcanduldul/mertcanduldul/blob/output/snake.svg" alt="Snake animation" />
 
 </div>
