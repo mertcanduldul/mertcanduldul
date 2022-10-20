@@ -26,11 +26,13 @@
 <br/><br/>
 <div align="center">
 <a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcanduldul&show_icons=true&locale=en&layout=compact" alt="mduldul" width="29%"  /></a>
+<img  src="https://github-readme-stats.vercel.app/api?username=mertcanduldul&show_icons=true&theme=synthwave&locale=en" alt="mduldul"  /></a>
 <a>
-<img  src="https://github-readme-stats.vercel.app/api?username=mertcanduldul&show_icons=true&theme=synthwave&locale=en" alt="mduldul" width="34%"  /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertcanduldul&theme=dark" alt="mduldul"/>
+
 <a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mertcanduldul&theme=dark" alt="mduldul" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcanduldul&show_icons=true&locale=en&layout=compact" alt="mduldul"  /></a>
+
 </a>
 </div>
 <table><tr><td valign="top" width="50%">
