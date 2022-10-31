@@ -31,7 +31,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertcanduldul&theme=tokyonight" alt="mduldul" width="421"/>
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcanduldul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mduldul"  /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcanduldul&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8" alt="mduldul"  /></a>
 
 </a>
 </div>
